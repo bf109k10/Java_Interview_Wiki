@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_LeetCode/Print_in_Order.md",
+                "file": "07_System_Design/Scalability_and_Sharding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Print_in_Order"
+              "title": "Scalability_and_Sharding"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08_LeetCode/Print_in_Order.md",
+                "file": "07_System_Design/Scalability_and_Sharding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Print_in_Order"
+              "title": "Backlinks for Scalability_and_Sharding"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08_LeetCode/Print_in_Order.md",
+                "file": "07_System_Design/Scalability_and_Sharding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Print_in_Order"
+              "title": "Outgoing links from Scalability_and_Sharding"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08_LeetCode/Print_in_Order.md",
+                "file": "07_System_Design/Scalability_and_Sharding.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Print_in_Order"
+              "title": "Outline of Scalability_and_Sharding"
             }
           }
         ]
@@ -185,23 +185,34 @@
   },
   "active": "cebc5d11668da2bc",
   "lastOpenFiles": [
-    "02_Concurrency/Synchronizers_and_Locks.md",
-    "01_Java_Core/Collections_Deep_Dive.md",
-    "08_LeetCode/Print_in_Order.md",
+    "08_LeetCode/Big_O_Interview_Traps.md",
     "08_LeetCode/New Text Document.txt",
+    "08_LeetCode/Asymptotic_Analysis_O_Big.md",
+    "08_LeetCode/Valid_Palindrome.md",
+    "07_System_Design/Scalability_and_Sharding.md",
+    "01_Java_Core/Collections_Deep_Dive.md",
+    "08_LeetCode/Group_Anagrams.md",
+    "06_Microservices_Architecture/Distributed_Transactions.md",
+    "02_Concurrency/ThreadLocal_vs_Scoped.md",
+    "05_Messaging_Kafka/MOC_Kafka.md",
+    "05_Messaging_Kafka/Kafka_Delivery_Guarantees.md",
+    "02_Concurrency/JMM_and_Volatile.md",
+    "02_Concurrency/Virtual_Threads_Reality.md",
+    "03_Spring_Ecosystem/Spring_MVC_vs_WebFlux.md",
+    "02_Concurrency/MOC_Concurrency.md",
+    "08_LeetCode/Print_in_Order.md",
+    "08_LeetCode/Top_K_Frequent_Elements.md",
+    "08_LeetCode/LRU_Cache.md",
+    "README.md",
+    "02_Concurrency/Synchronizers_and_Locks.md",
     "08_LeetCode/Two_Sum.md",
     "Index.md",
-    "05_Messaging_Kafka/Kafka_Delivery_Guarantees.md",
     "08_LeetCode/MOC_LeetCode.md",
     "08_LeetCode",
     "New folder",
     "01_Java_Core/Java_17_to_25_Features.md",
     "01_Java_Core/MOC_Java_Core.md",
     "01_Java_Core/JVM_Memory_Model.md",
-    "06_Microservices_Architecture/Distributed_Transactions.md",
-    "06_Microservices_Architecture/MOC_Microservices.md",
-    "03_Spring_Ecosystem/Quarkus_Hibernate_Panache.md",
-    "03_Spring_Ecosystem/Quarkus/Quarkus_Hibernate_Panache.md",
-    "07_System_Design/MOC_System_Design.md"
+    "06_Microservices_Architecture/MOC_Microservices.md"
   ]
 }

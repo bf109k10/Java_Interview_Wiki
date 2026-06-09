@@ -33,6 +33,7 @@ class Solution {
 
 ### ⚙️ Архитектурные метрики (Complexity)
 *   **Time Complexity:** $O(N)$ — мы гарантированно обходим массив всего один раз. Поиск в `HashMap` (`containsKey`, `get`) занимает $O(1)$ в среднем.
+*   **Time Complexity:** $O(N)$ — подробнее о расчете скоростей роста смотри в [[Asymptotic_Analysis_O_Big]].
 *   **Space Complexity:** $O(N)$ — в худшем случае нам придется положить все элементы массива в `HashMap`.
 
 ### 🔗 Связанные темы (Links):
