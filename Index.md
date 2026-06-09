@@ -43,6 +43,8 @@
 Проектирование систем, выдерживающих миллионы RPS, и принятие глобальных архитектурных компромиссов.
 *   [[Scalability_and_Sharding]] — Горизонтальное масштабирование, теоремы CAP / PACELC, **Консистентное хэширование** и ловушка Scatter-Gather запросов.
 
+## 📁 08. Algorithmic Practice & Coding Tasks
+*   [[MOC_LeetCode]] — Отборные задачи с LeetCode с разбором Time/Space Complexity.
 ---
 
 ### 📈 Инструкция по визуализации графа (Graph View)

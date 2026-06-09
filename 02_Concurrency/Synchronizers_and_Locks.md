@@ -33,3 +33,6 @@ AQS — это абстрактный класс в пакете `java.util.conc
 ### 🔗 Связанные темы (Links):
 *   [[MOC_Concurrency]]
 *   [[Virtual_Threads_Reality]]
+
+### 🧠 Алгоритмический практикум (LeetCode)
+*   [[Print_in_Order]] — Пример синхронизации потоков. Демонстрирует, почему встроенный `AQS` в `CountDownLatch` эффективнее, чем активное ожидание (Busy Waiting) на `volatile` флагах.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Java_Core/Java_17_to_25_Features.md",
+                "file": "08_LeetCode/Print_in_Order.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java_17_to_25_Features"
+              "title": "Print_in_Order"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Java_Core/Java_17_to_25_Features.md",
+                "file": "08_LeetCode/Print_in_Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Java_17_to_25_Features"
+              "title": "Backlinks for Print_in_Order"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Java_Core/Java_17_to_25_Features.md",
+                "file": "08_LeetCode/Print_in_Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Java_17_to_25_Features"
+              "title": "Outgoing links from Print_in_Order"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Java_Core/Java_17_to_25_Features.md",
+                "file": "08_LeetCode/Print_in_Order.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Java_17_to_25_Features"
+              "title": "Outline of Print_in_Order"
             }
           }
         ]
@@ -185,11 +185,21 @@
   },
   "active": "cebc5d11668da2bc",
   "lastOpenFiles": [
+    "02_Concurrency/Synchronizers_and_Locks.md",
+    "01_Java_Core/Collections_Deep_Dive.md",
+    "08_LeetCode/Print_in_Order.md",
+    "08_LeetCode/New Text Document.txt",
+    "08_LeetCode/Two_Sum.md",
+    "Index.md",
+    "05_Messaging_Kafka/Kafka_Delivery_Guarantees.md",
+    "08_LeetCode/MOC_LeetCode.md",
+    "08_LeetCode",
+    "New folder",
+    "01_Java_Core/Java_17_to_25_Features.md",
     "01_Java_Core/MOC_Java_Core.md",
     "01_Java_Core/JVM_Memory_Model.md",
     "06_Microservices_Architecture/Distributed_Transactions.md",
     "06_Microservices_Architecture/MOC_Microservices.md",
-    "Index.md",
     "03_Spring_Ecosystem/Quarkus_Hibernate_Panache.md",
     "03_Spring_Ecosystem/Quarkus/Quarkus_Hibernate_Panache.md",
     "07_System_Design/MOC_System_Design.md"
