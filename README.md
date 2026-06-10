@@ -30,7 +30,7 @@ The repository is loosely flattened into core engineering domains. To explore th
 *   **`📁 05_Messaging_Kafka`** — Event-Driven Architecture, partitions tuning, and Kafka Exactly-Once Semantics (EOS).
 *   **`📁 06_Microservices_Architecture`** — Distributed transactions (Saga vs. Transactional Outbox), Service Mesh (Istio/Envoy) vs. API Gateways, and MicroProfile standards.
 *   **`📁 07_System_Design`** — Horizontal scaling strategies, CAP/PACELC trade-offs, Consistent Hashing, and distributed consensus (Raft/Paxos).
-
+*   **`📁 08_Leet_Code`** — LeetCode Practice & Patterns
 ---
 
 ## 🛠️ Recommended Setup (Obsidian)
