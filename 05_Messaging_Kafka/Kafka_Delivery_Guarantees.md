@@ -1,5 +1,5 @@
 # 📦 Гарантии доставки в Apache Kafka (Delivery Guarantees)
-#kafka #messaging #distributed-systems #senior
+#kafka #messaging #distributed-systems 
 
 ### 🎯 Главный инсайт (TL;DR)
 > По умолчанию Kafka гарантирует доставку **At-Least-Once** (минимум один раз). Настройка системы для работы в режиме **Exactly-Once** (строго один раз) требует ювелирной конфигурации как продюсера, так и консьюмера, и всегда ведет к потере пропускной способности (Trade-off).

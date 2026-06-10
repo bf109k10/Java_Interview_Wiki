@@ -1,5 +1,5 @@
 # 📦 Глубокое погружение в Collections API & ConcurrentHashMap
-#java-core #collections #concurrency #senior
+#java-core #collections #concurrency 
 
 ### 🎯 Главный инсайт (TL;DR)
 > Современные коллекции в Java оптимизированы под минимизацию блокировок. Эволюция `ConcurrentHashMap` от Java 7 к Java 8+ показывает фундаментальный сдвиг архитектуры: от тяжелых сегментов на базе Lock-интерфейсов к атомарным операциям (CAS) и точечным блокировкам отдельных корзин (Buckets).

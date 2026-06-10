@@ -1,5 +1,5 @@
 # 🗺️ Java Enterprise & System Design: Root MOC
-#index #map-of-content #senior-prep
+#index #map-of-content 
 
 > **LLM Wiki (Karpathy Style)** — это интерактивный граф твоих инженерных знаний. Используй эту карту как отправную точку для интервального повторения перед собеседованиями. Нажимай `Ctrl + Клик` (в Obsidian) на любую тему, чтобы провалиться в глубокий технический конспект.
 

@@ -1,5 +1,5 @@
 # ⚡ HTTP-стеки: RESTEasy (Classic/Reactive) vs Spring MVC
-#spring #quarkus #resteasy #reactive #high-load #senior
+#spring #quarkus #resteasy #reactive #high-load 
 
 ### 🎯 Главный инсайт (TL;DR)
 > Выбор между Spring MVC и RESTEasy Reactive — это выбор между традиционной потоковой моделью (один поток ОС на запрос) и современной гибридной Event Loop архитектурой. RESTEasy Reactive (эксклюзив Quarkus) позволяет писать простой императивный код, но выполнять его с реактивной производительностью без использования сложного синтаксиса `Mono`/`Flux`.

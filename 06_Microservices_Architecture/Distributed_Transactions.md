@@ -1,5 +1,5 @@
 # 🔀 Распределенные транзакции: Saga vs Outbox Pattern
-#microservices #architecture #system-design #senior
+#microservices #architecture #system-design 
 
 ### 🎯 Главный инсайт (TL;DR)
 > Традиционный двухфазный коммит (2PC / JTA) неприменим в современных микросервисах из-за жесткой блокировки ресурсов и низкой отказоустойчивости. Вместо него используют паттерны согласованности в конечном счете (Eventual Consistency): **Saga** и **Transactional Outbox**.
