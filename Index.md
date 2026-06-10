@@ -45,6 +45,7 @@
 
 ## 📁 08. Algorithmic Practice & Coding Tasks
 *   [[MOC_LeetCode]] — Отборные задачи с LeetCode с разбором Time/Space Complexity.
+*   [[Asymptotic_Analysis_O_Big]] — Гайд по Big O нотации и оценке сложности.
 ---
 
 ### 📈 Инструкция по визуализации графа (Graph View)
@@ -53,4 +54,11 @@
 3. В настройках графа (шестеренка) включи отображение **Tags (Тегов)** и выставь группировку по папкам (окрашивание в разные цвета).
 4. Ты увидишь, как `🗺️ Index.md` станет центральным ядром, от которого расходятся лучи к доменам знаний, а темы вроде `Virtual_Threads_Reality` или `Distributed_Transactions` начнут переплетаться между собой, формируя прочные нейронные связи в твоей голове.
 
-*   [[Asymptotic_Analysis_O_Big]] — Гайд по Big O нотации и оценке сложности.
+
+### 🚨 Темы для срочного повторения (Статус: TODO)
+
+```dataview
+TABLE file.folder AS "Раздел"
+FROM ""
+WHERE status = "todo"
+SORT file.name ASC

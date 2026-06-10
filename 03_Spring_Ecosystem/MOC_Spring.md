@@ -9,7 +9,14 @@
 *   [[Spring_AOP_and_Proxy]] — Динамические прокси (JDK vs CGLIB) и ловушка самовызова (`Self-Invocation`).
 *   [[Spring_MVC_vs_WebFlux]] — Синхронный веб-стек (`spring-webmvc` + Tomcat) против реактивного (`spring-webflux` + Netty).
 *   [[RESTEasy_vs_Spring_Web]] — Сравнение подходов: Spring MVC против реактивного HTTP-стека Quarkus.
-*   [[Quarkus_Hibernate_Panache]] — Quarkus_Hibernate_Panache
+*   [[Quarkus_Hibernate_Panache]] — Quarkus Panache & Дилемма SOLID
+*   [[Spring_security_architecture]] — Архитектура Spring Security: Фильтры, JWT E2E
+*   [[Springboot_magic_under_the_hood]] — Как устроен Spring Boot под капотом: Автоконфигурация
+*   [[Bean_lifecycle_and_post_processors]] — Жизненный цикл бина и PostProcessor-ы
+*   [[Spring_transactions_and_aop]] — Управление транзакциями в Spring и магия АОР-Прокси
+*   [[Jpa_vs_jdbc_comparison]] — Сравнение: Spring Data JPA (Hibernate) vs Spring Data JDBC
+*   [[Spring_data_jdbc]] — Архитектура и особенности Spring Data JDBC
+*   [[Jpa_hibernate_deep_dive]] — Spring Data JPA и Hibernate
 
 ### 🔗 Родовые связи (Parent Links)
 *   [[Index]] — На главную страницу.
