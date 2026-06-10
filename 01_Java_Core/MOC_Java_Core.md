@@ -7,7 +7,7 @@
 ### 🌿 Внутренние связи (Core Links)
 *   [[JVM_Memory_Model]] — Стек, Хип, Metaspace, типы ссылок и флагманский сборщик мусора **ZGC**.
 *   [[Collections_Deep_Dive]] — Эволюция структур данных: `HashMap` (Java 8 Treeify) и `ConcurrentHashMap` (CAS блокировки).
-*   *Скоро в базе:* `[[Java_17_to_25_Features]]` — Эволюция синтаксиса (Records, Pattern Matching, Sealed classes).
+*   [[Java_17_to_25_Features]] — Эволюция синтаксиса (Records, Pattern Matching, Sealed classes).
 
 ### 🧠 Ментальная карта темы (Mental Model)
 ```text

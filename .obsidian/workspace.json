@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5735db141972645",
+        "id": "22ef19d1b9bec3e9",
         "type": "tabs",
         "children": [
           {
-            "id": "be39640dff010d4c",
+            "id": "bc44ddc8f93bd788",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -177,8 +177,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "be39640dff010d4c",
+  "active": "bc44ddc8f93bd788",
   "lastOpenFiles": [
+    "06_Microservices_Architecture/Main_Patterns.md",
+    "06_Microservices_Architecture/New Text Document.txt",
+    "2026-06-10.md",
     "03_Spring_Ecosystem/Spring-integration.md",
     "03_Spring_Ecosystem/New Text Document.txt",
     "03_Spring_Ecosystem/Spring_security_architecture.md",
@@ -212,8 +215,6 @@
     "02_Concurrency/Virtual_Threads_Reality.md",
     "03_Spring_Ecosystem/Spring_MVC_vs_WebFlux.md",
     "02_Concurrency/MOC_Concurrency.md",
-    "08_LeetCode/Print_in_Order.md",
-    "08_LeetCode/Top_K_Frequent_Elements.md",
     "08_LeetCode",
     "New folder"
   ]
