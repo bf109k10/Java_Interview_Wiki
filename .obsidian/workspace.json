@@ -179,8 +179,9 @@
   },
   "active": "be39640dff010d4c",
   "lastOpenFiles": [
-    "03_Spring_Ecosystem/Spring_security_architecture.md",
+    "03_Spring_Ecosystem/Spring-integration.md",
     "03_Spring_Ecosystem/New Text Document.txt",
+    "03_Spring_Ecosystem/Spring_security_architecture.md",
     "03_Spring_Ecosystem/Springboot_magic_under_the_hood.md",
     "03_Spring_Ecosystem/Bean_lifecycle_and_post_processors.md",
     "03_Spring_Ecosystem/Vean_lifecycle_and_post_processors.md",
@@ -213,7 +214,6 @@
     "02_Concurrency/MOC_Concurrency.md",
     "08_LeetCode/Print_in_Order.md",
     "08_LeetCode/Top_K_Frequent_Elements.md",
-    "08_LeetCode/LRU_Cache.md",
     "08_LeetCode",
     "New folder"
   ]

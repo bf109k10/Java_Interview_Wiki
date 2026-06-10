@@ -17,6 +17,7 @@
 *   [[Jpa_vs_jdbc_comparison]] — Сравнение: Spring Data JPA (Hibernate) vs Spring Data JDBC
 *   [[Spring_data_jdbc]] — Архитектура и особенности Spring Data JDBC
 *   [[Jpa_hibernate_deep_dive]] — Spring Data JPA и Hibernate
+*   [[Spring-integration]] — Архитектурные паттерны и нюансы работы со Spring Integration
 
 ### 🔗 Родовые связи (Parent Links)
 *   [[Index]] — На главную страницу.
