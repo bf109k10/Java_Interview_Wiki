@@ -1,5 +1,5 @@
 # 🕸️ Архитектура Микросервисов: Service Discovery, API Gateway и Service Mesh
-#microservices #architecture #infrastructure #senior
+#microservices #architecture #infrastructure
 
 ### 🎯 Главный инсайт (TL;DR)
 > По мере роста количества микросервисов управление сетевыми вызовами, безопасностью (mTLS) и трассировкой усложняется. Эволюция инфраструктуры прошла путь от встроенных библиотек в коде приложения (Netflix OSS) к выделенным платформенным прокси-оберткам инфраструктурного уровня (**Service Mesh / Istio**).
@@ -41,3 +41,4 @@ East-West Traffic (Service Mesh):
 ### 🔗 Связанные темы (Links):
 *   [[MicroProfile_and_Standards]]
 *   [[Distributed_Transactions]]
+*   [[Main_PAtterns]]

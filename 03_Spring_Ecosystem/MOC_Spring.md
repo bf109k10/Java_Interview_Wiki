@@ -18,6 +18,7 @@
 *   [[Spring_data_jdbc]] — Архитектура и особенности Spring Data JDBC
 *   [[Jpa_hibernate_deep_dive]] — Spring Data JPA и Hibernate
 *   [[Spring-integration]] — Архитектурные паттерны и нюансы работы со Spring Integration
+*   [[JPA_From_Java_Code_Database]] — How JPA works from your Java code to the Database
 
 ### 🔗 Родовые связи (Parent Links)
 *   [[Index]] — На главную страницу.
