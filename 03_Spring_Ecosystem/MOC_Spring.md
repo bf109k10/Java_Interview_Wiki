@@ -19,6 +19,11 @@
 *   [[Jpa_hibernate_deep_dive]] — Spring Data JPA и Hibernate
 *   [[Spring-integration]] — Архитектурные паттерны и нюансы работы со Spring Integration
 *   [[JPA_From_Java_Code_Database]] — How JPA works from your Java code to the Database
+*   [[Patterns]] — Strategy, Builder, Decorator
+*   [[DI_IOC]] — Dependency Inversion and Inversion of Control
+*   [[Spring_Data_and_Panache]] — Эволюция ORM: Hibernate Data и Quarkus Panache
+*   [[Reactive_Stack_WebFlux_vs_Quarkus]] — Борьба за High-Load: Spring WebFlux vs Quarkus RESTEasy Reactive
+
 
 ### 🔗 Родовые связи (Parent Links)
 *   [[Index]] — На главную страницу.

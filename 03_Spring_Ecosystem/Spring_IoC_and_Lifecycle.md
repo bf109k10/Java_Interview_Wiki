@@ -39,3 +39,5 @@
 ### 🔗 Связанные темы (Links):
 *   [[MOC_Spring]]
 *   [[Spring_AOP_and_Proxy]]
+*   [[DI_IOC]]
+

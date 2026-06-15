@@ -1,5 +1,6 @@
 # ⚡ Борьба за High-Load: Spring WebFlux vs Quarkus RESTEasy Reactive
-
+#quarkus
+ 
 ### ⚖️ Сравнительный анализ для архитектурного выбора
 
 | Критерий | Spring MVC + Virtual Threads | Spring WebFlux (Netty) | Quarkus RESTEasy Reactive (Vert.x) |
@@ -18,3 +19,8 @@
 ### ❓ Вопросы на собеседовании:
 * *Зачем нужен WebFlux, если есть Виртуальные потоки?* (Ответ: Стриминг, WebSockets, Backpressure, API Gateways).
 * *Что такое Event Loop и почему нельзя блокировать его поток?*
+
+
+### 🔗 Связанные темы (Links):
+*   [[Quarkus_Hibernate_Panache]]
+

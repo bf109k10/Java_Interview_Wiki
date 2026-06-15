@@ -11,7 +11,7 @@
 # Общая схема
 
 ```text
-Service
+Spring @Service
   ↓
 Repository (Spring Data JPA)
   ↓
@@ -693,6 +693,9 @@ JDBC
 Database
 ```
 
+JdbcClient - Использует JdbcTemplate внутри появился в Spring 6.1 (2023)
+
+
 Для большинства вопросов на собеседовании по JPA понимание:
 
 - Persistence Context
@@ -701,4 +704,16 @@ Database
 - Flush
 - persist vs merge
 
-закрывает примерно 80% темы.
+Любимый вопрос на Senior-собеседовании
+
+Что вернет: (true)
+```java
+@Transactional
+public void test() {
+
+    User u1 = em.find(User.class, 1L);
+    User u2 = em.find(User.class, 1L);
+
+    System.out.println(u1 == u2);
+}
+```
