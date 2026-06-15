@@ -1,4 +1,5 @@
 # JPA: От Java-кода до базы данных
+#jpa #jdbc #spring
 
 > Конспект статьи: "How JPA Works: From Your Java Code to the Database"
 > Дополнен деталями по Persistence Context, EntityManager и Hibernate internals.
@@ -693,9 +694,6 @@ JDBC
 Database
 ```
 
-JdbcClient - Использует JdbcTemplate внутри появился в Spring 6.1 (2023)
-
-
 Для большинства вопросов на собеседовании по JPA понимание:
 
 - Persistence Context
@@ -717,3 +715,13 @@ public void test() {
     System.out.println(u1 == u2);
 }
 ```
+
+Ответ: true
+
+А если:
+```java
+User u1 = service1.load();
+User u2 = service2.load();
+```
+где каждый вызов открыл свою транзакцию, то: u1 == u2 скорее всего: false
+
