@@ -44,3 +44,4 @@ CGLIB Proxy:
 ### 🔗 Связанные темы (Links):
 *   [[Spring_IoC_and_Lifecycle]]
 *   [[SQL_Indexes_and_Isolations]]
+*   [[Reflection_VS_Dynamic_Proxies_VS_CGLIB]]

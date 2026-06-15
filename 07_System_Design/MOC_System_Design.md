@@ -7,6 +7,8 @@
 ### 🌿 Внутренние связи (Core Links)
 *   [[Scalability_and_Sharding]] — Шардирование, теоремы CAP / PACELC, консистентное хэширование и проблема Scatter-Gather запросов.
 *   [[Realtime_Notification_Sys]] — Алгоритмы распределенного консенсуса (**Raft / Paxos**), выборы лидера и репликация логов.
+*   [[CAP]] - CAP теорема
+
 
 ### 🔗 Родовые связи (Parent Links)
 *   [[Index]] — На главную страницу.

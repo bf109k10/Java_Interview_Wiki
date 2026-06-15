@@ -23,6 +23,7 @@
 *   [[DI_IOC]] — Dependency Inversion and Inversion of Control
 *   [[Spring_Data_and_Panache]] — Эволюция ORM: Hibernate Data и Quarkus Panache
 *   [[Reactive_Stack_WebFlux_vs_Quarkus]] — Борьба за High-Load: Spring WebFlux vs Quarkus RESTEasy Reactive
+*   [[Spring_Modulith]] — Борьба за High-Load: Spring WebFlux vs Quarkus RESTEasy Reactive
 
 
 ### 🔗 Родовые связи (Parent Links)

@@ -22,3 +22,7 @@
 
 ### 🔗 Родовые связи (Parent Links)
 *   [[Index]] — На главную страницу.
+
+### 🔗 Связанные темы (Links):
+*   [[MOC_Java_Core]]
+*   [[Reflection_VS_Dynamic_Proxies_VS_CGLIB]]
