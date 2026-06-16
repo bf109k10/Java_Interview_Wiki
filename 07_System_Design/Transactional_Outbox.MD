@@ -1,5 +1,5 @@
 # Transactional Outbox Pattern – Надёжная передача событий между сервисами
-#system-design #kafka #spring
+#system-design #kafka #spring #q
 > **Источник**: [proselyte.net/transactional-outbox/](https://proselyte.net/transactional-outbox/)  
 > **Цель**: Изучение паттерна Transactional Outbox для гарантированной доставки событий в распределённых системах.
 
