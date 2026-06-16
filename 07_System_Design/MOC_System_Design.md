@@ -8,7 +8,9 @@
 *   [[Scalability_and_Sharding]] — Шардирование, теоремы CAP / PACELC, консистентное хэширование и проблема Scatter-Gather запросов.
 *   [[Realtime_Notification_Sys]] — Алгоритмы распределенного консенсуса (**Raft / Paxos**), выборы лидера и репликация логов.
 *   [[CAP]] - CAP теорема
-
+*   [[transaction-propagation]] - Transaction propagation: поведение вложенных транзакций
+*   [[transaction-isolation-levels]] - Уровни изоляции транзакций (Isolation Level)
+*   [[Answer_SD_Interview_Problem]] - Как отвечать на вопросы по System Design на интервью
 
 ### 🔗 Родовые связи (Parent Links)
 *   [[Index]] — На главную страницу.

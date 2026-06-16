@@ -24,7 +24,9 @@
 *   [[Spring_Data_and_Panache]] — Эволюция ORM: Hibernate Data и Quarkus Panache
 *   [[Reactive_Stack_WebFlux_vs_Quarkus]] — Борьба за High-Load: Spring WebFlux vs Quarkus RESTEasy Reactive
 *   [[Spring_Modulith]] — Борьба за High-Load: Spring WebFlux vs Quarkus RESTEasy Reactive
-
+*   [[Transactional]] — Основы работы @Transactional: механизмы Spring
+*   [[Transactional_Antipatterns]] — Типичные ошибки и анти-паттерны при использовании @Transactional
+*   [[Transactional_Log_Debug]] — Советы по отладке и логированию транзакций
 
 ### 🔗 Родовые связи (Parent Links)
 *   [[Index]] — На главную страницу.
