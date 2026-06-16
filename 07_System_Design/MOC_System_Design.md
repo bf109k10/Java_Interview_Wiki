@@ -11,6 +11,7 @@
 *   [[transaction-propagation]] - Transaction propagation: поведение вложенных транзакций
 *   [[transaction-isolation-levels]] - Уровни изоляции транзакций (Isolation Level)
 *   [[Answer_SD_Interview_Problem]] - Как отвечать на вопросы по System Design на интервью
+*   [[Transactional_Outbox]] - Transactional Outbox — это простой и надёжный способ гарантированной доставки событий в распределённых системах. Он подходит для большинства сценариев, где важна консистентность и отказоустойчивость.
 
 ### 🔗 Родовые связи (Parent Links)
 *   [[Index]] — На главную страницу.
