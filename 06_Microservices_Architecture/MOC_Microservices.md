@@ -8,6 +8,7 @@
 *   [[Distributed_Transactions]] — Шаблоны консистентности в конечном счете: паттерн **Saga** (Оркестрация/Хореография) и **Transactional Outbox**.
 *   [[Service_Discovery_and_Mesh]] — Управление трафиком: API Gateway (North-South) против Service Mesh / Istio (East-West через Sidecar Envoy).
 *   [[MicroProfile_and_Standards]] — Индустриальные стандарты для Java-микросервисов (Jakarta EE / MicroProfile).
+*   [[Reactive_Stack_WebFlux_vs_Quarkus]] — Spring WebFlux vs Quarkus RESTEasy.
 
 ### 🔗 Родовые связи (Parent Links)
 *   [[Index]] — На главную страницу.
